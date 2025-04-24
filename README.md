@@ -32,7 +32,7 @@ It’s lightweight, dead simple, and actually useful.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/wayland-switcher.git
+   git clone https://github.com/rezasadid753/wayland-switcher.git
    cd wayland-switcher
    ```
 
